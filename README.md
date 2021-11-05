@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://randomquote.netlify.app/">
+    <a href="https://randquote-dvn.netlify.app/">
       Demo
     </a>
     <span> | </span>
@@ -41,7 +41,7 @@ Introduction to project
 
 - Where can I see your demo?
 
-  <a href="https://randomquote.netlify.app/">
+  <a href="https://randquote-dvn.netlify.app/">
     Demo
   </a>
 
