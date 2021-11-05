@@ -33,6 +33,12 @@
   text-align: center;
   margin: 25px;
 }
+.h90{
+  height: 90%;
+}
+.h10{
+  height: 10%;
+}
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
   /* .author-h{

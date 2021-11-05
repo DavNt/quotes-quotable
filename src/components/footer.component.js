@@ -3,7 +3,7 @@ import React, {Component} from "react";
 export default class Footer extends Component{
   render(){
     return(
-      <div className="container mt-auto mb-0 py-3">
+      <div className="container mt-auto h10 py-3">
         <p className="text-center ">
           Created by 
           <a 

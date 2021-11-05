@@ -29,7 +29,7 @@ export default function Homepage(){
 
   return(
     <>
-    <div className="container-fluid">
+    <div className="container-fluid h90">
       <GenRandomQ
         quote={quote}
       />
